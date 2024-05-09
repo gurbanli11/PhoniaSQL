@@ -497,3 +497,4 @@ C:\Users\orkha\OneDrive\Masaüstü\PhoriaUpdate-master\PhoniaTask\bin\Debug\net6
 C:\Users\orkha\OneDrive\Masaüstü\PhoriaUpdate-master\PhoniaTask\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\orkha\OneDrive\Masaüstü\PhoriaUpdate-master\PhoniaTask\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\orkha\OneDrive\Masaüstü\PhoriaUpdate-master\PhoniaTask\obj\Debug\net6.0\PhoniaTask.csproj.Up2Date
+C:\Users\orkha\OneDrive\Masaüstü\PhoriaUpdate-master\PhoniaTask\obj\Debug\net6.0\PhoniaTask.sourcelink.json
