@@ -11,7 +11,7 @@ using PhoniaTask.DAL;
 
 namespace PhoniaTask.Migrations
 {
-    [DbContext(typeof(PhoniaContext))]
+    [DbContext(typeof(PhoniaTaskContext))]
     [Migration("20240507133032_CategoriesTableCreated")]
     partial class CategoriesTableCreated
     {

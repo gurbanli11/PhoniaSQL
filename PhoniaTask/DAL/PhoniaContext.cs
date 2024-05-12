@@ -8,7 +8,8 @@ namespace PhoniaTask.DAL
         public PhoniaContext(DbContextOptions options) :base(options)
         { 
         }
-        public DbSet<Category>Categories { get; set; }
+        public DbSet<Category> Categories { get; set; }
+        public DbSet<Slider>Sliders { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder options)
         {
             options.UseSqlServer("Server=CLASSOSERAMICEU\\SQLEXPRESS01;DataBase=Phonia106;Trusted_Connection=true;");
